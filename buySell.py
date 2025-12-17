@@ -52,5 +52,5 @@ t.myFunciton([1,5,2,5,3,6,6,2,8])
 # after i find the index... how can i use that to trace back to the two originals numbers and their indexes that 
 # gave rise to it? 
 
-# test
+# test.
 
